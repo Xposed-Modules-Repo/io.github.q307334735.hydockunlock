@@ -21,6 +21,10 @@ HyperOS 4 的 Flutter + Dart AOT 实现）。其他系统桌面版本请自测�
 
 ## 授权
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)（署名 · 非商业 · **禁止二改**）。
-允许原样转载与个人使用；**禁止修改后重新打包分发，禁止任何商业用途**。
+**🚫 禁止二改 · 禁止修改后重新打包分发**
+
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)（署名 · 非商业 · 禁止演绎）。
+其中 **ND（禁止演绎）** 即「不得分发任何经过修改的版本」，**BY** 要求必须署名，**NC** 禁止商业使用。
+
+允许原样转载与个人使用；**禁止二次修改、禁止修改后重新打包分发、禁止任何商业用途**。
 完整条文见源码仓库的 LICENSE。
